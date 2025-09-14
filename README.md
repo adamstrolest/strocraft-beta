@@ -10,7 +10,7 @@ with bedrock,grass,dirt,bick,glass,wood,and wood textures
  install python and ursina engine ( game runtime) by :
 
  for linux :
- open terminal and tip:
+ open terminal and type:
  debian/ubunto : 
  python : sudo apt install python3
  ursina : sudo apt install python3-ursina
@@ -31,7 +31,8 @@ now ,go to cmd and run it as admin
 tip | pip install ursina | and press enter 
  whate a moument
   if the installation sucsessful try runninig the game
-for macos 
+for macos :
+
 go to python site and clic download if the downloaded file is an exe chose mac os in system chosing and click download
 install the .pkg file 
 in terminal type     pip3 install ursina
