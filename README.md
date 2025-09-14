@@ -31,8 +31,8 @@ now ,go to cmd and run it as admin
 tip | pip install ursina | and press enter 
  whate a moument
   if the installation sucsessful try runninig the game
+  
 for macos :
-
 go to python site and clic download if the downloaded file is an exe chose mac os in system chosing and click download
 install the .pkg file 
 in terminal type     pip3 install ursina
